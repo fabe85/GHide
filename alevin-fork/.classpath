@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="lib/Batik.jar" sourcepath="lib/Batik.jar"/>
+	<classpathentry kind="lib" path="lib/jsc.jar" sourcepath="lib/jsc.jar"/>
+	<classpathentry kind="lib" path="lib/JUNG2.jar" sourcepath="lib/JUNG2.jar"/>
+	<classpathentry kind="lib" path="lib/sndlib-instances-native.zip" sourcepath="lib/sndlib-instances-native.zip"/>
+	<classpathentry kind="lib" path="/home/baskefab/workspace/alevin-fork/lib/glpk-java.jar" sourcepath="lib">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="alevin-fork/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
